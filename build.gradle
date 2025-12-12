@@ -8,7 +8,7 @@ buildscript {
         jacksonVersion = "[${testJacksonVersions.first()},)"
         licensePluginVersion = '0.13.1'
         releasePluginVersion = '2.4.0'
-        spockVersion = '1.0-groovy-2.4'
+        spockVersion = '2.4-groovy-5.0'
 
         // external dependencies
         groovy = "org.codehaus.groovy:groovy-all:${groovyVersion}"
